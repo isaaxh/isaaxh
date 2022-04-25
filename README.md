@@ -1,4 +1,4 @@
-W- 👋 Hi, I’m @isaaxh
+- 👋 Hi, I’m @isaaxh
 - 👀 I’m interested in building webpages
 - 🌱 I’m currently learning Web development to grasp basic programming concepts
 - 💞️ I’m looking to collaborate on any beginner projects where i can use html, css and js
