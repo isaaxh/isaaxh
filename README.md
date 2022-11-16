@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isaaxh
+- 👋 Hi, I’m Isaac Hussain
 - 👀 I’m interested in building webpages
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on any beginner projects where i can use html, css and js
