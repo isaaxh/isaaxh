@@ -3,7 +3,7 @@
 I am a software engineer. I like building stuff. I enjoy working with new people and lifting weights. 
 
 Contact info: 
-isaaxhussain@gmail.com
+[Email](isaaxhussain@gmail.com)
 [Twitter](https://twitter.com/IsaaxHussain) 
 [LinkedIn](https://www.linkedin.com/in/isaac-hussain)
 
