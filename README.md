@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Isaac Hussain
-- 👀 I’m interested in building webpages
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on any beginner projects where i can use html, css and js
-- 📫 How to reach me isaax.business@gmail.com
+I am a software engineer with proficiency in JavaScript, CSS, and HTML. I am also knowledgeable in Java, C#, MSSQL, R, and Python. In my free time, I enjoy lifting weights and staying active. On my GitHub, you'll find a mix of personal projects and contributions to open-source projects that showcase my skills and interests.
+
+📫 How to reach me isaaxhussain@gmail.com
 
 <!---
 isaaxh/isaaxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
