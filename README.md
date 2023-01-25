@@ -1,6 +1,13 @@
-I am a software engineer with proficiency in JavaScript, CSS, and HTML. I am also knowledgeable in Java, C#, MSSQL, R, and Python. In my free time, I enjoy lifting weights and staying active. On my GitHub, you'll find a mix of personal projects and contributions to open-source projects that showcase my skills and interests.
+# Hi, I am Isaac
 
-📫 How to reach me isaaxhussain@gmail.com
+I am a software enginer. I like building stuff. I like working with new people and lifting weights. 
+
+Contact info: 
+Email: isaaxhussain@gmail.com
+[Twitter]([@isaaxhussain](https://twitter.com/IsaaxHussain) [LinkedIn](https://www.linkedin.com/in/isaac-hussain)
+
+Languages & Tool: 
+HTML5, CSS3, JavaScript, Git, Github, Figma
 
 <!---
 isaaxh/isaaxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
