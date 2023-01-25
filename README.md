@@ -1,6 +1,6 @@
 # Hi, I am Isaac
 
-I am a software enginer. I like building stuff. I enjoy working with new people and lifting weights. 
+I am a software engineer. I like building stuff. I enjoy working with new people and lifting weights. 
 
 Contact info: 
 isaaxhussain@gmail.com
