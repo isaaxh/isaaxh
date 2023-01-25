@@ -3,8 +3,9 @@
 I am a software enginer. I like building stuff. I like working with new people and lifting weights. 
 
 Contact info: 
-Email: isaaxhussain@gmail.com
-[Twitter](https://twitter.com/IsaaxHussain) [LinkedIn](https://www.linkedin.com/in/isaac-hussain)
+isaaxhussain@gmail.com
+[Twitter](https://twitter.com/IsaaxHussain) 
+[LinkedIn](https://www.linkedin.com/in/isaac-hussain)
 
 Languages & Tool: 
 HTML5, CSS3, JavaScript, Git, Github, Figma
