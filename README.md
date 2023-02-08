@@ -1,6 +1,6 @@
 # Hi, I am Isaac
 
-I am a software engineer. I like building web-applications. I enjoy working with new people and lifting weights. 
+I am a frontend engineer. I like building web-applications. I enjoy working with new people and lifting weights. 
 
 Contact info: isaaxhussain@gmail.com -
 [Twitter](https://twitter.com/IsaaxHussain) -
