@@ -7,7 +7,7 @@ Contact info: isaaxhussain@gmail.com -
 [LinkedIn](https://www.linkedin.com/in/isaac-hussain)
 
 Languages & Tool: 
-HTML5, CSS3, JavaScript, React JS, Git, Github, Figma
+HTML5, CSS3, JavaScript, React JS, TypeScript, Git, Github, Figma
 
 <!---
 isaaxh/isaaxh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
