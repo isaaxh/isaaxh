@@ -1,4 +1,4 @@
-# Hi, I am Isaac
+# Hi, I am Ishaq
 
 I am a frontend engineer. I like building web-applications. I enjoy working with new people and lifting weights. 
 
