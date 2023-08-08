@@ -42,7 +42,7 @@ I am a frontend engineer. I like building web-applications. I enjoy working with
 
 <p align="left"> <a href="https://www.github.com/isaaxh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/IsaaxHussain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Github
 
 <b>My GitHub Stats</b>
 
