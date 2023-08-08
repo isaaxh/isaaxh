@@ -28,7 +28,7 @@ I am a frontend engineer. I like building web-applications. I enjoy working with
 * 🤝  I'm open to any opportunities
 * ⚡   I like working out and roll in a sparring BJJ session
 
-### Skills
+### Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
