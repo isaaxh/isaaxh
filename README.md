@@ -20,9 +20,6 @@ You can click the Preview link to take a look at your changes.
 About Me:
 =====================================================================================================================================
 
-Frontend Engineer
------------------
-
 I am a frontend engineer. I like building web-applications. I enjoy working with new people and lifting weights.
 
 * ✉️  You can reach me at [ishaq-hussain@hotmail.com](mailto:ishaq-hussain@hotmail.com)
