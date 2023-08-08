@@ -25,12 +25,11 @@ Frontend Engineer
 
 I am a frontend engineer. I like building web-applications. I enjoy working with new people and lifting weights.
 
-* 🌍  I'm based in Jeddah, KSA
 * ✉️  You can contact me at [business.ishaqhussain@gmail.com](mailto:business.ishaqhussain@gmail.com)
-* 🚀  I'm currently working on [BugTracker App](http://bugtrackerappcom)
+* 🚀  I'm currently working on [BugTracker App](http://bugtracker-2.netlify.app/)
 * 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on any
-* ⚡  When I am not coding, I like working out and roll in a sparring BJJ session
+* 🤝  I'm open to any opportunities
+* ⚡   I like working out and roll in a sparring BJJ session
 
 ### Skills
 
