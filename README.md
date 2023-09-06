@@ -22,7 +22,7 @@ About Me
 
 I am a frontend engineer. I like building web-applications. I enjoy working with new people and lifting weights.
 
-* 🌍  I'm based in Jeddah, Saudi Arabia
+* 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [ishaq-hussain@hotmail.com](mailto:ishaq-hussain@hotmail.com)
 * 🚀  I'm currently working on [BugTracker App](http://bugtracker-2.netlify.app/)
 * 🧠  I'm learning React JS
