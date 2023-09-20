@@ -25,7 +25,7 @@ I am a frontend engineer. I like building web-applications. I enjoy working with
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [ishaq-hussain@hotmail.com](mailto:ishaq-hussain@hotmail.com)
 * 🚀  I'm currently working on [BugTracker App](http://bugtracker-2.netlify.app/)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on Open Source Porjects
 * ⚡  I like working out and sparring BJJ in a session
 
