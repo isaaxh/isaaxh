@@ -1,7 +1,7 @@
 About Me
 -----------------
 
-I am a frontend engineer. I like building web-applications. I enjoy working with new people and lifting weights.
+I am a software engineer with a keen focus on React. I do frontend development in web and mobile applications. I enjoy working with new people and lifting weights.
 
 Open to new opportunities
 
