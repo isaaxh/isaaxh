@@ -7,8 +7,8 @@ Open to new opportunities
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [ishaq-hussain@hotmail.com](mailto:ishaq-hussain@hotmail.com)
-* 🚀  I'm currently working on [BugTracker App](http://bugtracker-2.netlify.app/)
-* 🧠  I'm learning Next JS
+* 🚀  I'm currently working on QuickBite (Food Delivery App)
+* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on Open Source Porjects
 * ⚡  I like working out and sparring BJJ in a session
 
