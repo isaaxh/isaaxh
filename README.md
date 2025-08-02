@@ -1,14 +1,14 @@
 About Me
 -----------------
 
-I am a software engineer with a keen focus on React. I do frontend development in web and mobile applications. I enjoy working with new people and lifting weights.
+I'm a software engineer with a strong focus on React. I specialize in frontend development for both web using NextJS and cross platform mobile applications using React Native. I'm always eager to learn new technologies and quick to adapt.
 
 Open to new opportunities
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [ishaq-hussain@hotmail.com](mailto:ishaq-hussain@hotmail.com)
 * 🚀  I'm currently working on QuickBite (Food Delivery App)
-* 🧠  I'm learning Java
+* 🧠  I'm learning AI agent development
 * 🤝  I'm open to collaborating on Open Source Porjects
 * ⚡  I like working out and sparring BJJ in a session
 
